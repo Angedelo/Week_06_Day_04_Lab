@@ -1,0 +1,11 @@
+body {
+  font-family: Palatino;
+}
+
+.readingItem {
+  display: inline-block;
+  padding: 0 2vw;
+  margin-right: 2vw;
+  background-color: lightBlue;
+  border: 1px solid darkBlue;
+}
